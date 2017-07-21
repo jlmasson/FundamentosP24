@@ -56,3 +56,6 @@ def distribuye(n, m, q, total):
 
 region = distribuye(2, 2, 1, 6)
 print(region)
+
+region = distribuye(4, 6, 5, 20)
+print(region)
